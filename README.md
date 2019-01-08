@@ -61,13 +61,14 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Solidity](https://github.com/ethereum/solidity)
-* [Truffle](https://truffleframework.com) - Dependency Management
-* [Ethereum Classic](https://ethereumclassic.org/) - Used to generate RSS Feeds
+* [Django](https://www.djangoproject.com/)
+* [Steem Blockchain](https://steemit.com/)
+* [Steem Connect](https://steemconnect.com/)
+* [Steem-State](https://github.com/nicholas-2/steem-state)
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -77,7 +78,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Daniel Pittman** - *Initial work* - [Korn0](https://github.com/dpdanpittman)
 
-See also the list of [contributors](https://github.com/qwoyn/hashkings/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/qwoyn/canna-curate/contributors) who participated in this project.
 
 ## License
 
