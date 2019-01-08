@@ -6,3 +6,6 @@ webpack.config.js
 
 #ignore settings.py
 website/hashkings/settings.py
+
+#ignore manage.py
+website/manage.py
