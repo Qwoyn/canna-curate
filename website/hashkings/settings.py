@@ -77,6 +77,7 @@ SHOP_OPTION_TYPE_CHOICES = (
     (1, "Sativa"),
     (2, "Indica"),
     (3, "Ruderalis"),
+	(4, "Land Sales")
 )
 
 # Sequence of indexes from the SHOP_OPTION_TYPE_CHOICES setting that

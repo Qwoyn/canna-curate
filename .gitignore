@@ -1,0 +1,8 @@
+#ignore node_modules folder
+node_modules/
+
+#ignore webpack
+webpack.config.js
+
+#ignore settings.py
+website/hashkings/settings.py
